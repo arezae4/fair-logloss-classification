@@ -1,6 +1,6 @@
 # Fairness for Robust Log Loss Classification
 
-This repository provides Python implementation for our paper [Fairness for Robust Log Loss Classification](https://arxiv.org/abs/1903.03910).
+This repository provides Python implementation for our AAAI 2020 paper [Fairness for Robust Log Loss Classification](https://arxiv.org/abs/1903.03910).
 
 ### Abstract
 
