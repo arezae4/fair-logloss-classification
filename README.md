@@ -30,4 +30,4 @@ $ python test_fairlogloss.py [adult|compas] [dp|eqodd|eqopp]
 
 ### References
 
-1. Ashkan Rezaei, Rizal Fathony, Omid Memarrast, Brian Ziebart. "Fairness for Robust Log Loss Classification" AAAI-20 [[arXiv]](https://arxiv.org/abs/1903.03910)
+1. Ashkan Rezaei, Rizal Fathony, Omid Memarrast, Brian Ziebart. "Fairness for Robust Log Loss Classification" AAAI-20 [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-RezaeiA.7734.pdf)
